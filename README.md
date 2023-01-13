@@ -22,6 +22,6 @@ or malicious software into our program. 2. Users who decide to contribute must i
 at the top of the source code and add/remove TODO's along with comments of anykind.
 
 # Contact me 
-Discord: Stinky_Goober#4200
+Discord: BadDeveloper#4200
 Email: Cooperransom08@outlook.com
 Replit: [cozi08](https://replit.com/@cozi08)
